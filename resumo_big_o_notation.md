@@ -22,7 +22,7 @@ Independente do tamanho do input o tempo de execução será o mesmo
 
 ## O (LOG N)
 
-Fuciona de maneira logaritimica, quando dobramos o input, o tempo de execução não dobra dobra também, mas escala de maneira exponencial
+Fuciona de maneira logaritimica, quando dobramos o input, o tempo de execução não dobra, mas escala de maneira exponencial
 
 ---
 

@@ -4,4 +4,4 @@
 
 ---
 
-sua complexidade de leitura pode ser tanto O(n) quanto O(1), visto que a celula que queremos acessar pode estar na cabeça ou na calda, o mesmo caso de aplica para a inserção
+sua complexidade de leitura pode ser tanto O(n) quanto O(1), visto que a celula que queremos acessar pode estar na cabeça, na calda ou no meio da lista, o mesmo caso de aplica para a inserção
